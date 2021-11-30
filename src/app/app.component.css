@@ -1,4 +1,9 @@
 .box {
     display: flex;
     padding: 10px;
+    font-family: 'Gill Sans';
+ }
+
+ app-header {
+     font-family: Cochin;
  }
